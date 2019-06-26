@@ -10,17 +10,18 @@ a=[]
 browser = webdriver.Chrome()
 browser.get(('https://ivapwa.sadadpsp.ir/'))
 
+/////////////////////////////////////////////////
 
-telNum = '09059492746'
-sender_card_number = '6362141051999168'
-second_pass = '34221040'
-cvv2 = '1847'
-month = '09'
-year = '00'
 
-des_card_number = '6362144502916294'
-amount = '30000'
 
+
+
+
+
+
+
+................................................
+/////////////////////////////////////////////////
 #telNum = input("Please input your phone number: ")
 #sender_card_number = input("Please Enter your card 16 digit number: ")
 #second_pass = input("Second Pass: ")
@@ -239,6 +240,17 @@ time.sleep(5)
 
 
 
+.......................
+/////////////////////////
+telNum = '09059492746'
+sender_card_number = '6362141051999168'
+second_pass = '34221040'
+cvv2 = '1847'
+month = '09'
+year = '00'
 
+des_card_number = '6362144502916294'
+amount = '30000'
+///////////////////////
 
 
